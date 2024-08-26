@@ -18,7 +18,7 @@ export default function Course() {
           </div>
         </div>
         <div className="w-full h-2/3 flex justify-center items-center p-10">
-          <div className="w-full h-full object-cover  bg-[url('https://meanwhileinmongolia.com/wp-content/uploads/2022/11/Best-Museums-Ulaanbaatar-1536x1024.jpg.webp')] bg-cover bg-center bg-no-repeat" />
+          <div className="w-full h-full object-cover  bg-[url('https://www.inspicanvas.com/cdn/shop/products/SteveJobsPoster_1024x1024.jpg?v=1589911865')] bg-cover bg-center bg-no-repeat" />
         </div>
       </div>
     </div>

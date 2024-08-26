@@ -4,8 +4,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Webtopia",
-  description: "Let them bitches see butterflies",
+  title: "We Codly",
+  description: "Let Us Code Everything",
 };
 
 export default function RootLayout({ children }) {

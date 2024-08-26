@@ -39,7 +39,7 @@ export default function Discover() {
             className="w-full h-full bg-contain bg-center bg-no-repeat"
             style={{
               backgroundImage:
-                "url('https://dnoenr5u1mwth.cloudfront.net/r46d22%2Fpreview%2F58882938%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1719322738&Signature=aNF0h225wDaMro6foCdzw~negTVihbrLRwxsO95Vi6g5rNXAtjUvYwoboGisANMpnT0oB4a7L-zwLHNRwjTM-FNVl5DbPM2a7-zQdnWXHQldMIIUNYW2K~ZVvWNLOSWGDjIUbWz0CrLeIj5mQTAuNoyb~Gh8HCa1WZU3NhHXlm0ndjG8pm9WUK2ZzPchJAkVkd651zD-DBlAtqblFq6v2KkpZ2c-mJdSBnxjdd~l6OIyleivo2LhWK8EqQbA~RfiKrpc3xiDo1vFFFC8cCdqmUlgsPhsn0vXH7IaXKubT37rZtT5PC7PcelTHt4WNrq1skyBD7RVIJgx0lZEv55dqg__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ')",
+                "url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ-5gcgRYKRTXIOA8AvkaGwkIORAx8Tt_F4Q&s')",
             }}
             aria-label="Sukhbaatar Square, Ulaanbaatar, Mongolia"
           />

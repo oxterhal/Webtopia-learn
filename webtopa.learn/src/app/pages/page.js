@@ -5,6 +5,7 @@ import Discover from "../components/Discover";
 import Advantage from "../components/Advantage";
 import Unlock from "../components/Unlock";
 import Footer from "../components/Footer";
+import Login from "./Login";
 export default function Home() {
   return (
     <div className="w-screen h-screen">
